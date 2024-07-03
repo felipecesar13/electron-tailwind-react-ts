@@ -1,24 +1,24 @@
-# Boilerplate de Aplicação com Electron, React, Tailwind e TypeScript
+# Application Boilerplate with Electron, React, Tailwind, and TypeScript
 
-Este boilerplate é a solução ideal para desenvolvedores que desejam começar um projeto utilizando Electron, React, Tailwind e TypeScript, sem a necessidade de configurar cada tecnologia individualmente. Com ele, você pode economizar tempo e se concentrar no desenvolvimento da funcionalidade do seu aplicativo desde o início.
+This boilerplate is the ideal solution for developers who want to start a project using Electron, React, Tailwind, and TypeScript without the need to configure each technology individually. With it, you can save time and focus on developing your application's functionality right from the start.
 
-## Tecnologias Incluídas:
-- **Electron**: Crie aplicações desktop multi-plataforma com tecnologias web.
-- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **Tailwind CSS**: Framework CSS utilitário para estilização rápida e eficiente.
-- **TypeScript**: Suporte a tipagem estática para JavaScript, melhorando a qualidade e a manutenção do código.
+## Included Technologies:
+- **Electron**: Build cross-platform desktop applications with web technologies.
+- **React**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for quick and efficient styling.
+- **TypeScript**: Static typing support for JavaScript, improving code quality and maintainability.
 
-## Funcionalidades do Boilerplate:
-- **Prettier**: Configurado para formatação consistente e padronizada do código.
-- **Sistema de Rotas**: Configuração inicial de rotas da aplicação, facilitando a navegação entre diferentes páginas ou componentes.
+## Boilerplate Features:
+- **Prettier**: Configured for consistent and standardized code formatting.
+- **Routing System**: Initial application routing setup, facilitating navigation between different pages or components.
 
-## Benefícios:
-- **Facilidade de Uso**: Tenha todas as tecnologias configuradas e prontas para uso em um único lugar.
-- **Produtividade**: Comece a desenvolver imediatamente sem se preocupar com a configuração inicial.
-- **Manutenibilidade**: Utilize TypeScript e Prettier para um código mais organizado e fácil de manter.
-- **Estilização Rápida**: Aproveite o poder do Tailwind CSS para estilizar sua aplicação de forma eficiente.
+## Benefits:
+- **Ease of Use**: Have all technologies configured and ready to use in one place.
+- **Productivity**: Start developing immediately without worrying about initial setup.
+- **Maintainability**: Use TypeScript and Prettier for more organized and maintainable code.
+- **Quick Styling**: Leverage the power of Tailwind CSS to style your application efficiently.
 
-Este boilerplate é perfeito para quem deseja criar aplicações desktop modernas e robustas com uma base sólida e configurada de forma eficiente. Comece hoje mesmo e acelere seu desenvolvimento!
+This boilerplate is perfect for those who want to create modern, robust desktop applications with a solid and efficiently configured foundation. Start today and speed up your development!
 
 Run `npm start` to start the application
 
