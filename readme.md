@@ -20,6 +20,10 @@ This boilerplate is the ideal solution for developers who want to start a projec
 
 This boilerplate is perfect for those who want to create modern, robust desktop applications with a solid and efficiently configured foundation. Start today and speed up your development!
 
+## Start Project
+
+Run `npm install` to install the dependencies
+
 Run `npm start` to start the application
 
 Run `rs` in the terminal after npm start to restart the application
